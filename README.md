@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at **HCLTech** as a **Senior Software Engineer I**<br>🌱 I’m presently learning **Figma, Data Structure & Algorithm and Design Pattern**<br>💬 Ask me about **React, TypeScript, UI performance, and some backend, which are Java and NodeJs**<br>📫 How to reach me: **baltazarbernie05@gmail.com**<br>⚡ Fun fact: I treat every bug as a mystery waiting to be solved.
+🔭 I’m currently working at **HCLTech** as a **Senior Software Engineer I**<br>🌱 I’m presently learning **Figma, Data Structure & Algorithm and Design Pattern, n8n automation**<br>💬 Ask me about **React, TypeScript, UI performance, and some backend, which are Java and NodeJs**<br>📫 How to reach me: **baltazarbernie05@gmail.com**<br>⚡ Fun fact: I treat every bug as a mystery waiting to be solved.
 
 
 ## 🌐 Socials:
